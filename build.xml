@@ -78,6 +78,6 @@ hello hi
         <fileset dir="${basedir}" includes="**/*.class" />
     </delete>
     <delete dir="./build"/>
-    <echo message="clean done yes" />
+    <echo message="clean done" />
   </target>
 </project>
